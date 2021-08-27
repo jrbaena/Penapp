@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_form">spinnerCategories</string>
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="categories">
+        <item>Ropa</item>
+        <item>Bebida</item>
+        <item>Comida</item>
+        <item>Materiales</item>
+        <item>Varios</item>
+    </string-array>
+</resources>
